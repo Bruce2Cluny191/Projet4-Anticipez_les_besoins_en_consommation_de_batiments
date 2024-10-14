@@ -1,5 +1,7 @@
 # Anticipez les besoins en consommation de bâtiments
 
+<img src="https://user.oc-static.com/upload/2019/02/24/15510245026714_Seattle_logo_landscape_blue-black.png" />
+
 ## Contexte
 La ville de Seattle vise à devenir neutre en émissions de carbone d'ici 2050. Pour atteindre cet objectif, l'équipe se concentre sur la consommation et les émissions des bâtiments non résidentiels. Des relevés ont été effectués en 2016, mais leur coût élevé incite à prédire les émissions de CO2 et la consommation d'énergie des bâtiments non mesurés, en utilisant les données structurelles des bâtiments.
 
